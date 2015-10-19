@@ -1,2 +1,2 @@
-# hello-world
-short description
+
+It is a README
